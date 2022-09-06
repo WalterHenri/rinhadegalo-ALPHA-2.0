@@ -1,0 +1,50 @@
+41
+24
+         aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+             aaa aaaaaaaaaaaaaaaaaaaaaaaa
+            aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+     a     a  aaaaaaaaaaaaaaaaaaaaaaaaaaa
+       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+           aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  a      aaa aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+         aa aaa aaaaaaaaaaaaaaaaaaaaaaaaa
+        aa aa a aaaaaaaaaaaaaaaaaaaaaaaaa
+          a aa a aaaaaaaaaaaaaaaaaa aaaaa
+ aa  a   aaa a aa aaaaaaaaaaaaaaaaaaaaaaa
+         aa  aa aaaaaaaaaaaaaaaaaaa aaaaa
+        aaa  a  a aaaaaaaaaaaaaa aa aa aa
+        aa  aa aaaaaaaaaaaaaaaaaaa   a  a
+      aa    aa aaaaaa aaaaaaaaaa aa  a  a
+       a       aaaaa  aaa aaaa aaaaa a  a
+     a    a   aaaaaa a aa a  a aaaaa a a 
+          a   aaa aa a aa aaaaaaa a aa   
+            aa aa  aa  aa    aaaa a  a   
+  a      a  a aa   aa aaa   aaaaa  a     
+  a         aa    aaaaa      aaaaa aa    
+           aa     aa         aaaaa  aa   
+          aa     a     a aa  aaaaa  a a  
+         aa                a  aa a   a aa
+         44444444444444444444444444444444
+             444 444444444444444444444444
+            44444444444444444444444444444
+     4     4  444444444444444444444444444
+       4444444444444444444444444444444444
+           444444444444444444444444444444
+  4      444 4444444444444444444444444444
+         44 444 4444444444444444444444444
+        44 44 4 4444444444444444444444444
+          4 44 4 444444444444444444 44444
+ 44  4   444 4 44 44444444444444444444444
+         44  44 4444444444444444444 44444
+        444  4  4 44444444444444 44 44 44
+        44  44 4444444444444444444   4  4
+      44    44 444444 4444444444 44  4  4
+       4       44444  444 4444 44444 4  4
+     4    4   444444 4 44 4  4 44444 4 4 
+          4   444 44 4 44 4444444 4 44   
+            44 44  44  44    4444 4  4   
+  4      4  4 44   44 444   44444  4     
+  4         44    44444      44444 44    
+           44     44         44444  44   
+          44     4     4 44  44444  4 4  
+         44                4  44 4   4 44

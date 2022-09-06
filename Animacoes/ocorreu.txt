@@ -1,0 +1,50 @@
+80
+24
+                                                                                
+                                                                                
+     aaaaaaaa   aaaaaaa   aaaaaaa  aaaaaaa   aaaaaaa   aaaaaaaaa aaa    aaa     
+    aaaaaaaaaa aaaaaaaaa aaaaaaaaa@aaaaaaaa @aaaaaaaa @aaaaaaaaa@aaa   @aaa     
+   @aaaaaaaaaa@aaaaaaaaa@aaaaaaaaa@aaaaaaaa @aaaaaaaa @aaaaaaaaa@aaa   @aaa     
+   @aaa@@@@aaa@aaa@@@aaa@aaa@@@aaa@aaa@@@aaa@aaa@@@aaa@aaa@@@aaa@aaa   @aaa     
+   @aaa   @aaa@aaa  @@@ @aaa  @aaa@aaa  @@aa@aaa  @@aa@aaa  @@@ @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaa   @aa@aaa   @aa@aaa      @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaa   @aa@aaa   @aa@aaa      @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaa   aaa@aaa   aaa@aaa      @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaaaaaaa @aaaaaaaa @aaaaaa   @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaaaaaaa @aaaaaaaa @aaaaaa   @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaaaaaa  @aaaaaa@  @aaaaaa   @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaa@@aaa @aaa@@aaa @aaa@@    @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaa @@aaa@aaa @@aaa@aaa      @aaa   @aaa     
+   @aaa   @aaa@aaa      @aaa  @aaa@aaa  @aaa@aaa  @aaa@aaa      @aaa   @aaa     
+   @aaa   @aaa@aaa   aaa@aaa  @aaa@aaa  @aaa@aaa  @aaa@aaa      @aaaa  aaaa     
+   @aaa   @aaa@aaa  @aaa@aaa  @aaa@aaa  @aaa@aaa  @aaa@aaa   aaa@aaaa @aaaa     
+   @aaaaaaaaaa@aaaaaaaaa@aaaaaaaaa@aaa  @aaa@aaa  @aaa@aaaaaaaaa@@aaaaaaaaa     
+   @aaaaaaaaaa@aaaaaaaaa@aaaaaaaaa@aaa  @aaa@aaa  @aaa@aaaaaaaaa @aaaaaaaa      
+   @@aaaaaaaa @@aaaaaaa @@aaaaaaa @aaa  @aaa@aaa  @aaa@aaaaaaaaa @@aaaaaa       
+    @@@@@@@@   @@@@@@@   @@@@@@@  @@@   @@@ @@@   @@@ @@@@@@@@@   @@@@@@        
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+     99999999   9999999   9999999  9999999   9999999   999999999 999    999     
+    9999999999 999999999 999999999099999999 099999999 09999999990999   0999     
+   0999999999909999999990999999999099999999 099999999 09999999990999   0999     
+   09990000999099900099909990009990999000999099900099909990009990999   0999     
+   0999   09990999  000 0999  09990999  00990999  00990999  000 0999   0999     
+   0999   09990999      0999  09990999   0990999   0990999      0999   0999     
+   0999   09990999      0999  09990999   0990999   0990999      0999   0999     
+   0999   09990999      0999  09990999   9990999   9990999      0999   0999     
+   0999   09990999      0999  0999099999999 099999999 0999999   0999   0999     
+   0999   09990999      0999  0999099999999 099999999 0999999   0999   0999     
+   0999   09990999      0999  099909999999  09999990  0999999   0999   0999     
+   0999   09990999      0999  0999099900999 099900999 099900    0999   0999     
+   0999   09990999      0999  09990999 009990999 009990999      0999   0999     
+   0999   09990999      0999  09990999  09990999  09990999      0999   0999     
+   0999   09990999   9990999  09990999  09990999  09990999      09999  9999     
+   0999   09990999  09990999  09990999  09990999  09990999   99909999 09999     
+   09999999999099999999909999999990999  09990999  0999099999999900999999999     
+   09999999999099999999909999999990999  09990999  09990999999999 099999999      
+   0099999999 009999999 009999999 0999  09990999  09990999999999 00999999       
+    00000000   0000000   0000000  000   000 000   000 000000000   000000        
+                                                                                
+                                                                                

@@ -1,0 +1,50 @@
+80
+24
+                                        aa                                      
+                                       a aaa                                    
+                                           aaa                                  
+                                             a                                  
+                                             aa                                 
+                                aaaa          a                                 
+                              aaa             a                                 
+                             aa          aaa aa                                 
+                             a           a aaa                                  
+                             a           a                                      
+                             a       aaaaa                                      
+                             aa     aa                                          
+                              aa   aa  aa                                       
+                               aaaa  aa  a                                      
+                                         a                                      
+                                         aaaaaa                                 
+                                        aa   aa                                 
+                                        a                                       
+                                       aa                                       
+                                     aaa                                        
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        ::                                      
+                                       : :::                                    
+                                           :::                                  
+                                             :                                  
+                                             ::                                 
+                                ::::          :                                 
+                              :::             :                                 
+                             ::          ::: ::                                 
+                             :           : :::                                  
+                             :           :                                      
+                             :       :::::                                      
+                             ::     ::                                          
+                              ::   ::  ::                                       
+                               ::::  ::  :                                      
+                                         :                                      
+                                         ::::::                                 
+                                        ::   ::                                 
+                                        :                                       
+                                       ::                                       
+                                     :::                                        
+                                                                                
+                                                                                
+                                                                                
+                                                                                

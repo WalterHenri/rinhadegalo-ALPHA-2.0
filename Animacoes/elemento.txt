@@ -1,0 +1,50 @@
+80
+24
+  aaa                                                                           
+aa@@  aaa                                                                       
+aa   a@@                                                                        
+a   aa aaaa aa   aaaa aa   aa aaaa aa   aa aaaaaa aaaaa                         
+   @@a@aa  @aa  @aa@ @aaa aaa@aa@ @aaa @aa@@@aa  @aa@aa                         
+    @ @aaa @aa  @aaa @aa a@aa@aaa @aa@a@aa  @aa  @aa@aa                         
+      @aa  @aa  @aa  @aa@ @aa@aa  @aa @aaa  @aa  @aa@aa                     aaa 
+      @aaaa@aaaa@aaaa@aa  @aa@aaaa@aa  @aa  @aa  @aaaaa                aaaa@@@@a
+      @@@@ @@@@ @@@@ @@   @@ @@@@ @@   @@   @@   @@@@@                @@@@@aa @a
+   aaaaa    aaaaa  aaaaa    aa  aaaaa   aaaaa @aaaaaaaa@aa@aa   aa  aaaaa @a  @a
+  @aa@@@aa aa@@@aa@aa@@aa  @aa@aa@@@aa aa@@@aa@@@@aa@@ @aa@aa  @aa aa@@@aa@a  @ 
+  @aa  @aa@aa  @aa@aa @@aa @aa@aa  @aa@aa  @aa   @aa   @aa@aa  @aa@aa  @aa@     
+  @aa  @aa@aa  @aa@aa  @@aa@aa@aa  @aa@aa  @aa   @aa   @aa@aa  @aa@aa  @aa      
+  @aaaaa  @aa  @aa@aa   @aa@aa@aa  @aa@aaaaaaa   @aa   @aa@aa  @aa@aa  @aa      
+  @aa@aa  @aa  @aa@aa   @aa@aa@aa  @aa@aaaa@aa   @aa   @aa@aaa aaa@aa  @aa      
+  @aa @aa @aa  @aa@aa   @aa@aa@aa  @aa@aaa@@aa   @aa   @aa@@aa@aa @aa  @aa      
+  @aa  @aa@aa  @aa@aa   @aa@aa@aa  @aa@aa@ @aa   @aa   @aa @aa@aa @aa  @aa      
+  @aa  @aa@aa  @aa@aa   aa @aa@aa  @aa@aa  @aa   @a    @aa @aa@aa @aa  @aa      
+  @aa  @aa@aa  @aa@aa  aa  @aa@aa  @aa@aa  @aa   @a    @aa @@aaa  @aa  @aa      
+  @aa  @aa@aa  @aa@aaaaa   @aa@aa  @aa@aa  @aa   @a    @@a  @aaa  @aa  @@       
+  @a   @a @a   @a @a@@@    @a @@aaaa@ @aa  @aa   @a     @   @aaa  @@aaaa        
+  @    @  @    @  @        @   @@@@a  @@   @@    @a         @@@    @@@aa        
+                                  @              @                   @@         
+                                                                                
+  :::                                                                           
+::00  :::                                                                       
+::   :00                                                                        
+:   :: :::: ::   :::: ::   :: :::: ::   :: :::::: :::::                         
+   00:0::  0::  0::0 0::: :::0::0 0::: 0::000::  0::0::                         
+    0 0::: 0::  0::: 0:: :0::0::: 0::0:0::  0::  0::0::                         
+      0::  0::  0::  0::0 0::0::  0:: 0:::  0::  0::0::                     ::: 
+      0::::0::::0::::0::  0::0::::0::  0::  0::  0:::::                ::::0000:
+      0000 0000 0000 00   00 0000 00   00   00   00000                00000:: 0:
+   :::::    :::::  :::::    ::  :::::   ::::: 0::::::::0::0::   ::  ::::: 0:  0:
+  0::000:: ::000::0::00::  0::0::000:: ::000::0000::00 0::0::  0:: ::000::0:  0 
+  0::  0::0::  0::0:: 00:: 0::0::  0::0::  0::   0::   0::0::  0::0::  0::0     
+  0::  0::0::  0::0::  00::0::0::  0::0::  0::   0::   0::0::  0::0::  0::      
+  0:::::  0::  0::0::   0::0::0::  0::0:::::::   0::   0::0::  0::0::  0::      
+  0::0::  0::  0::0::   0::0::0::  0::0::::0::   0::   0::0::: :::0::  0::      
+  0:: 0:: 0::  0::0::   0::0::0::  0::0:::00::   0::   0::00::0:: 0::  0::      
+  0::  0::0::  0::0::   0::0::0::  0::0::0 0::   0::   0:: 0::0:: 0::  0::      
+  0::  0::0::  0::0::   :: 0::0::  0::0::  0::   0:    0:: 0::0:: 0::  0::      
+  0::  0::0::  0::0::  ::  0::0::  0::0::  0::   0:    0:: 00:::  0::  0::      
+  0::  0::0::  0::0:::::   0::0::  0::0::  0::   0:    00:  0:::  0::  00       
+  0:   0: 0:   0: 0:000    0: 00::::0 0::  0::   0:     0   0:::  00::::        
+  0    0  0    0  0        0   0000:  00   00    0:         000    000::        
+                                  0              0                   00         
+                                                                                

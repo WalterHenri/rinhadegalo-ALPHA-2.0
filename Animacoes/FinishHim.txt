@@ -1,0 +1,12 @@
+36
+5
+aaaa a aaa a aaa a a   a a a aaaaa a
+a  a   a a   a   a a   a a   a a a a
+aa   a a a a aaa aaa   aaa a a a a a
+a    a a a a   a a a   a a a a a a  
+a    a a a a aaa a a   a a a a a a a
+4444 4 444 4 444 4 4   4 4 4 44444 4
+4  4   4 4   4   4 4   4 4   4 4 4 4
+44   4 4 4 4 444 444   444 4 4 4 4 4
+4    4 4 4 4   4 4 4   4 4 4 4 4 4  
+4    4 4 4 4 444 4 4   4 4 4 4 4 4 4

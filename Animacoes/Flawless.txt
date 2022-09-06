@@ -1,0 +1,12 @@
+36
+5
+aaa a   aaa a  a  a a   aaa aaa aaa 
+a   a   a a a  a  a a   a   a   a   
+aaa a   aaa a  a  a a   aaa aaa aaa 
+a   a   a a a  a  a a   a     a   a 
+a   aaa a a  aa aa  aaa aaa aaa aaa 
+::: :   ::: :  :  : :   ::: ::: ::: 
+:   :   : : :  :  : :   :   :   :   
+::: :   ::: :  :  : :   ::: ::: ::: 
+:   :   : : :  :  : :   :     :   : 
+:   ::: : :  :: ::  ::: ::: ::: ::: 

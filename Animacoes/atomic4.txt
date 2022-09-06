@@ -1,0 +1,50 @@
+24
+24
+                        
+                        
+                        
+        aaaaaaaa        
+      aaaaaaaaaaaa      
+     aaaaaaaaaaaaaa     
+    aaaaaaaaaaaaaaaa    
+   aaaaaaaaaaaaaaaaaa   
+   aaaaaaaaaaaaaaaaaa   
+  aaaaaaaaaaaaaaaaaaaa  
+  aaaaaaaaaaaaaaaaaaaa  
+  aaaaaaaaaaaaaaaaaaaa  
+  aaaaaaaaaaaaaaaaaaaa  
+   aaaaaaaaaaaaaaaaaa   
+   aaaaa aaaaaa aaaaa   
+    aaa   aaaa   aaa    
+          aaaa          
+          aaaa          
+          aaaa          
+          aaaa          
+          aaaa          
+          aaaa          
+         aaaaaa         
+         aaaaaa         
+                        
+                        
+                        
+        ::::::::        
+      22222222::::      
+     22222222222:::     
+    2222222222222:::    
+   222222222222222:::   
+   222222222222222:::   
+  2222222222222222::::  
+  222222222222222:::::  
+  222222222222222:::::  
+  22222222222222::::::  
+   22222222222:::::::   
+   22222 2222:: :::::   
+    222   222:   :::    
+          222:          
+          222:          
+          222:          
+          222:          
+          222:          
+          222:          
+         22222:         
+         222222         

@@ -1,0 +1,50 @@
+80
+24
+                                                                                
+                                                                                
+                          aaa        aaa   aaaaaaaaaa                           
+                         @aaaaa     @aaa  aaaaaaaaaaaa                          
+                         @aaaaa     @aaa @aaaaaaaaaaaa                          
+                         @aaaaaa    @aaa @aaa@@@@@@aaa                          
+                         @aaaaaa    @aaa @aaa     @aaa                          
+                         @aaa@aaa   @aaa @aaa     @aaa                          
+                         @aaa@aaa   @aaa @aaa     @aaa                          
+                         @aaa@@aaa  @aaa @aaa     @aaa                          
+                         @aaa @aaa  @aaa @aaa     @aaa                          
+                         @aaa @@aaa @aaa @aaa     @aaa                          
+                         @aaa  @aaa @aaa @aaa     @aaa                          
+                         @aaa  @@aaa@aaa @aaa     @aaa                          
+                         @aaa   @aaa@aaa @aaa     @aaa                          
+                         @aaa   @@aaaaaa @aaa     @aaa                          
+                         @aaa    @aaaaaa @aaa     @aaa                          
+                         @aaa    @@aaaaa @aaa     @aaa                          
+                         @aaa     @aaaaa @aaaaaaaaaaaa                          
+                         @aaa     @@@aaa @aaaaaaaaaaaa                          
+                         @aaa       @aaa @@aaaaaaaaaa                           
+                         @@@        @@@   @@@@@@@@@@                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          999        999   9999999999                           
+                         099999     0999  999999999999                          
+                         099999     0999 0999999999999                          
+                         0999999    0999 0999000000999                          
+                         0999999    0999 0999     0999                          
+                         09990999   0999 0999     0999                          
+                         09990999   0999 0999     0999                          
+                         099900999  0999 0999     0999                          
+                         0999 0999  0999 0999     0999                          
+                         0999 00999 0999 0999     0999                          
+                         0999  0999 0999 0999     0999                          
+                         0999  009990999 0999     0999                          
+                         0999   09990999 0999     0999                          
+                         0999   00999999 0999     0999                          
+                         0999    0999999 0999     0999                          
+                         0999    0099999 0999     0999                          
+                         0999     099999 0999999999999                          
+                         0999     000999 0999999999999                          
+                         0999       0999 009999999999                           
+                         000        000   0000000000                            
+                                                                                
+                                                                                
